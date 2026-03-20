@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tra Cứu Cơ Sở Toán CNTT</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script>
+        MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']]
+            }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="logo">
+                <i data-lucide="calculator" class="icon-brand"></i>
+                <span>Math<strong>CNTT</strong></span>
+            </div>
+
+            <nav class="nav-menu" id="nav-subject-list">
+                <div class="nav-title">Môn học</div>
+                <!-- Rendered dynamically -->
+            </nav>
+
+            <nav class="nav-menu" id="nav-type-list">
+                <div class="nav-title">Phân loại kiến thức</div>
+                <!-- Rendered dynamically -->
+            </nav>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="header">
+                <div class="search-bar">
+                    <i data-lucide="search" class="icon-search"></i>
+                    <input type="text" id="search-input"
+                        placeholder="Tìm kiếm nội dung bài học, khái niệm (VD: ma trận, tích phân)...">
+                </div>
+                <div class="theme-toggle" id="theme-toggle">
+                    <i data-lucide="moon" id="theme-icon"></i>
+                </div>
+            </header>
+
+            <div class="content">
+                <div class="welcome-banner" id="welcome-banner">
+                    <h1>Khám phá Kiến thức Toán Cơ Sở</h1>
+                    <p>Hệ thống hỗ trợ tra cứu Giải tích 1 & Đại số tuyến tính dành cho sinh viên CNTT.</p>
+                </div>
+
+                <div class="results-container">
+                    <div class="results-header">
+                        <h2 id="results-title">Tất cả kiến thức</h2>
+                        <span id="results-count" class="badge">0</span>
+                    </div>
+                    <div class="knowledge-grid" id="knowledge-grid">
+                        <!-- Thẻ kiến thức được render tại đây -->
+                        <div class="loading-spinner">Đang tải dữ liệu...</div>
+                    </div>
+                </div>
+
+                <!-- Modal Chi tiết kiến thức -->
+                <div class="modal-overlay" id="detail-modal">
+                    <div class="modal-content">
+                        <button class="close-btn" id="close-modal"><i data-lucide="x"></i></button>
+                        <div class="modal-body">
+                            <div class="modal-meta">
+                                <span class="badge badge-subject" id="modal-subject">Giải tích 1</span>
+                                <span class="badge badge-type" id="modal-type">Khái niệm</span>
+                            </div>
+                            <h2 id="modal-title" class="modal-title">Tiêu đề kiến thức</h2>
+                            <p class="modal-lesson" id="modal-lesson">Bài học: Giới hạn</p>
+                            <div class="modal-divider"></div>
+                            <div class="modal-text" id="modal-text">
+                                <!-- Nội dung chính chứa MathJax -->
+                            </div>
+                            <div class="modal-related">
+                                <h3><i data-lucide="link"></i> Kiến thức liên quan</h3>
+                                <div class="related-list" id="modal-related-list">
+                                    <!-- Liệt kê liên quan -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Scripts -->
+    <script src="app.js"></script>
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+
+</html>

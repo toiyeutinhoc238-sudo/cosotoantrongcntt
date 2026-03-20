@@ -1,0 +1,1646 @@
+[
+  {
+    "id": "sec-1-1",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 1: Dãy số",
+    "type": "Khái niệm",
+    "title": "Khái niệm dãy số thực",
+    "content": "Đây là nền tảng lý thuyết cơ bản (Khái niệm & Định nghĩa) của nội dung bài học. Nắm vững điều này sẽ giúp giải quyết các dạng bài tập phân loại. Vận dụng định ngiã một cách linh hoạt là cốt lõi của môn học Giải tích / Đại số.",
+    "related_ids": [
+      "sec-1-2"
+    ]
+  },
+  {
+    "id": "sec-1-2",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 1: Dãy số",
+    "type": "Kiến thức chung",
+    "title": "Dãy số hội tụ",
+    "content": "Sự hội tụ là một trong những khái niệm nền tảng. Khi xét giới hạn hay chuỗi số, sự hội tụ đảm bảo rằng quá trình lặp hay tổng vô hạn sẽ tiến dần về một giá trị hữu hạn xác định $L$. Công thức tổng quát thường liên quan đến $\\lim_{n \\to \\infty} S_n = L$ với $|S_n - L| < \\epsilon$.",
+    "related_ids": [
+      "sec-1-1",
+      "sec-1-3"
+    ]
+  },
+  {
+    "id": "sec-1-3",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 1: Dãy số",
+    "type": "Tính chất",
+    "title": "Các tính chất của dãy số hội tụ",
+    "content": "Sự hội tụ là một trong những khái niệm nền tảng. Khi xét giới hạn hay chuỗi số, sự hội tụ đảm bảo rằng quá trình lặp hay tổng vô hạn sẽ tiến dần về một giá trị hữu hạn xác định $L$. Công thức tổng quát thường liên quan đến $\\lim_{n \\to \\infty} S_n = L$ với $|S_n - L| < \\epsilon$.",
+    "related_ids": [
+      "sec-1-2",
+      "sec-1-4"
+    ]
+  },
+  {
+    "id": "sec-1-4",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 1: Dãy số",
+    "type": "Kiến thức chung",
+    "title": "Sự hội tụ của dãy số đơn điệu",
+    "content": "Sự hội tụ là một trong những khái niệm nền tảng. Khi xét giới hạn hay chuỗi số, sự hội tụ đảm bảo rằng quá trình lặp hay tổng vô hạn sẽ tiến dần về một giá trị hữu hạn xác định $L$. Công thức tổng quát thường liên quan đến $\\lim_{n \\to \\infty} S_n = L$ với $|S_n - L| < \\epsilon$.",
+    "related_ids": [
+      "sec-1-3",
+      "sec-1-5"
+    ]
+  },
+  {
+    "id": "sec-1-5",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 1: Dãy số",
+    "type": "Kiến thức chung",
+    "title": "Tiêu chuẩn hội tụ Cauchy",
+    "content": "Sự hội tụ là một trong những khái niệm nền tảng. Khi xét giới hạn hay chuỗi số, sự hội tụ đảm bảo rằng quá trình lặp hay tổng vô hạn sẽ tiến dần về một giá trị hữu hạn xác định $L$. Công thức tổng quát thường liên quan đến $\\lim_{n \\to \\infty} S_n = L$ với $|S_n - L| < \\epsilon$.",
+    "related_ids": [
+      "sec-1-4",
+      "sec-1-6-1"
+    ]
+  },
+  {
+    "id": "sec-1-6-1",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 1: Dãy số",
+    "type": "Dạng bài tập",
+    "title": "Dạng 1: Tính giới hạn của dãy số",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-1-5",
+      "sec-1-6-2"
+    ]
+  },
+  {
+    "id": "sec-1-6-2",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 1: Dãy số",
+    "type": "Dạng bài tập",
+    "title": "Dạng 2: Chứng minh giới hạn bằng định nghĩa",
+    "content": "Đây là nền tảng lý thuyết cơ bản (Khái niệm & Định nghĩa) của nội dung bài học. Nắm vững điều này sẽ giúp giải quyết các dạng bài tập phân loại. Vận dụng định ngiã một cách linh hoạt là cốt lõi của môn học Giải tích / Đại số.",
+    "related_ids": [
+      "sec-1-6-1",
+      "sec-1-6-3"
+    ]
+  },
+  {
+    "id": "sec-1-6-3",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 1: Dãy số",
+    "type": "Dạng bài tập",
+    "title": "Dạng 3: Xét sự hội tụ và tính giới hạn của dãy truy hồi",
+    "content": "Sự hội tụ là một trong những khái niệm nền tảng. Khi xét giới hạn hay chuỗi số, sự hội tụ đảm bảo rằng quá trình lặp hay tổng vô hạn sẽ tiến dần về một giá trị hữu hạn xác định $L$. Công thức tổng quát thường liên quan đến $\\lim_{n \\to \\infty} S_n = L$ với $|S_n - L| < \\epsilon$.",
+    "related_ids": [
+      "sec-1-6-2",
+      "sec-1-6-4"
+    ]
+  },
+  {
+    "id": "sec-1-6-4",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 1: Dãy số",
+    "type": "Dạng bài tập",
+    "title": "Dạng 4: Xét sự hội tụ của dãy số theo tiêu chuẩn Cauchy",
+    "content": "Sự hội tụ là một trong những khái niệm nền tảng. Khi xét giới hạn hay chuỗi số, sự hội tụ đảm bảo rằng quá trình lặp hay tổng vô hạn sẽ tiến dần về một giá trị hữu hạn xác định $L$. Công thức tổng quát thường liên quan đến $\\lim_{n \\to \\infty} S_n = L$ với $|S_n - L| < \\epsilon$.",
+    "related_ids": [
+      "sec-1-6-3",
+      "sec-2-1-1"
+    ]
+  },
+  {
+    "id": "sec-2-1-1",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 2: Hàm số",
+    "type": "Khái niệm",
+    "title": "Định nghĩa hàm số",
+    "content": "Đây là nền tảng lý thuyết cơ bản (Khái niệm & Định nghĩa) của nội dung bài học. Nắm vững điều này sẽ giúp giải quyết các dạng bài tập phân loại. Vận dụng định ngiã một cách linh hoạt là cốt lõi của môn học Giải tích / Đại số.",
+    "related_ids": [
+      "sec-1-6-4",
+      "sec-2-1-2"
+    ]
+  },
+  {
+    "id": "sec-2-1-2",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 2: Hàm số",
+    "type": "Tính chất",
+    "title": "Các tính chất của hàm số",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-2-1-1",
+      "sec-2-2-1"
+    ]
+  },
+  {
+    "id": "sec-2-2-1",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 2: Hàm số",
+    "type": "Kiến thức chung",
+    "title": "Sự liên tục của hàm số",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-2-1-2",
+      "sec-2-2-2"
+    ]
+  },
+  {
+    "id": "sec-2-2-2",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 2: Hàm số",
+    "type": "Kiến thức chung",
+    "title": "Điểm gián đoạn và phân loại",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-2-2-1",
+      "sec-2-3"
+    ]
+  },
+  {
+    "id": "sec-2-3",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 2: Hàm số",
+    "type": "Khái niệm",
+    "title": "Định nghĩa giới hạn của hàm số",
+    "content": "Đây là nền tảng lý thuyết cơ bản (Khái niệm & Định nghĩa) của nội dung bài học. Nắm vững điều này sẽ giúp giải quyết các dạng bài tập phân loại. Vận dụng định ngiã một cách linh hoạt là cốt lõi của môn học Giải tích / Đại số.",
+    "related_ids": [
+      "sec-2-2-2",
+      "sec-2-4-1"
+    ]
+  },
+  {
+    "id": "sec-2-4-1",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 2: Hàm số",
+    "type": "Công thức",
+    "title": "Quy tắc L’Hôpital",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-2-3",
+      "sec-2-4-2"
+    ]
+  },
+  {
+    "id": "sec-2-4-2",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 2: Hàm số",
+    "type": "Kiến thức chung",
+    "title": "Sử dụng vô cùng bé (VCB)",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-2-4-1",
+      "sec-2-4-3"
+    ]
+  },
+  {
+    "id": "sec-2-4-3",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 2: Hàm số",
+    "type": "Kiến thức chung",
+    "title": "Sử dụng vô cùng lớn (VCL)",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-2-4-2",
+      "sec-2-4-4"
+    ]
+  },
+  {
+    "id": "sec-2-4-4",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 2: Hàm số",
+    "type": "Dạng bài tập",
+    "title": "Các dạng vô định 1^vcv, 0^0, vcv^0",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-2-4-3",
+      "sec-2-4-5"
+    ]
+  },
+  {
+    "id": "sec-2-4-5",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 2: Hàm số",
+    "type": "Kiến thức chung",
+    "title": "Khai triển Maclaurin",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-2-4-4",
+      "sec-2-5-1"
+    ]
+  },
+  {
+    "id": "sec-2-5-1",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 2: Hàm số",
+    "type": "Dạng bài tập",
+    "title": "Dạng 1: Tính giới hạn của hàm số",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-2-4-5",
+      "sec-2-5-2"
+    ]
+  },
+  {
+    "id": "sec-2-5-2",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 2: Hàm số",
+    "type": "Dạng bài tập",
+    "title": "Dạng 2: Chứng minh giới hạn bằng định nghĩa",
+    "content": "Đây là nền tảng lý thuyết cơ bản (Khái niệm & Định nghĩa) của nội dung bài học. Nắm vững điều này sẽ giúp giải quyết các dạng bài tập phân loại. Vận dụng định ngiã một cách linh hoạt là cốt lõi của môn học Giải tích / Đại số.",
+    "related_ids": [
+      "sec-2-5-1",
+      "sec-2-5-3"
+    ]
+  },
+  {
+    "id": "sec-2-5-3",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 2: Hàm số",
+    "type": "Dạng bài tập",
+    "title": "Dạng 3: Tìm và phân loại điểm gián đoạn",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-2-5-2",
+      "sec-2-5-4"
+    ]
+  },
+  {
+    "id": "sec-2-5-4",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 2: Hàm số",
+    "type": "Dạng bài tập",
+    "title": "Dạng 4: Tìm tham số để hàm số liên tục",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-2-5-3",
+      "sec-3-1-1"
+    ]
+  },
+  {
+    "id": "sec-3-1-1",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 3: Đạo hàm và vi phân",
+    "type": "Khái niệm",
+    "title": "Định nghĩa và tính chất",
+    "content": "Đây là nền tảng lý thuyết cơ bản (Khái niệm & Định nghĩa) của nội dung bài học. Nắm vững điều này sẽ giúp giải quyết các dạng bài tập phân loại. Vận dụng định ngiã một cách linh hoạt là cốt lõi của môn học Giải tích / Đại số.",
+    "related_ids": [
+      "sec-2-5-4",
+      "sec-3-1-2"
+    ]
+  },
+  {
+    "id": "sec-3-1-2",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 3: Đạo hàm và vi phân",
+    "type": "Kiến thức chung",
+    "title": "Ý nghĩa của đạo hàm",
+    "content": "Đạo hàm mô tả sự biến thiên của hàm số tại một điểm: $f'(x_0) = \\lim_{\\Delta x \\to 0} \\frac{f(x_0 + \\Delta x) - f(x_0)}{\\Delta x}$. Nó được ứng dụng rất nhiều trong việc dò tìm cực trị và phương pháp tối ưu hóa (Gradient Descent) trong Machine Learning.",
+    "related_ids": [
+      "sec-3-1-1",
+      "sec-3-1-3"
+    ]
+  },
+  {
+    "id": "sec-3-1-3",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 3: Đạo hàm và vi phân",
+    "type": "Kiến thức chung",
+    "title": "Đạo hàm một bên",
+    "content": "Đạo hàm mô tả sự biến thiên của hàm số tại một điểm: $f'(x_0) = \\lim_{\\Delta x \\to 0} \\frac{f(x_0 + \\Delta x) - f(x_0)}{\\Delta x}$. Nó được ứng dụng rất nhiều trong việc dò tìm cực trị và phương pháp tối ưu hóa (Gradient Descent) trong Machine Learning.",
+    "related_ids": [
+      "sec-3-1-2",
+      "sec-3-1-4"
+    ]
+  },
+  {
+    "id": "sec-3-1-4",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 3: Đạo hàm và vi phân",
+    "type": "Kiến thức chung",
+    "title": "Đạo hàm hàm ngược và hàm tham số hóa",
+    "content": "Đạo hàm mô tả sự biến thiên của hàm số tại một điểm: $f'(x_0) = \\lim_{\\Delta x \\to 0} \\frac{f(x_0 + \\Delta x) - f(x_0)}{\\Delta x}$. Nó được ứng dụng rất nhiều trong việc dò tìm cực trị và phương pháp tối ưu hóa (Gradient Descent) trong Machine Learning.",
+    "related_ids": [
+      "sec-3-1-3",
+      "sec-3-1-5"
+    ]
+  },
+  {
+    "id": "sec-3-1-5",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 3: Đạo hàm và vi phân",
+    "type": "Kiến thức chung",
+    "title": "Đạo hàm cấp cao",
+    "content": "Đạo hàm mô tả sự biến thiên của hàm số tại một điểm: $f'(x_0) = \\lim_{\\Delta x \\to 0} \\frac{f(x_0 + \\Delta x) - f(x_0)}{\\Delta x}$. Nó được ứng dụng rất nhiều trong việc dò tìm cực trị và phương pháp tối ưu hóa (Gradient Descent) trong Machine Learning.",
+    "related_ids": [
+      "sec-3-1-4",
+      "sec-3-1-6"
+    ]
+  },
+  {
+    "id": "sec-3-1-6",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 3: Đạo hàm và vi phân",
+    "type": "Kiến thức chung",
+    "title": "Vi phân cấp 1",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-3-1-5",
+      "sec-3-1-7"
+    ]
+  },
+  {
+    "id": "sec-3-1-7",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 3: Đạo hàm và vi phân",
+    "type": "Kiến thức chung",
+    "title": "Vi phân cấp cao",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-3-1-6",
+      "sec-3-2"
+    ]
+  },
+  {
+    "id": "sec-3-2",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 3: Đạo hàm và vi phân",
+    "type": "Công thức",
+    "title": "Quy tắc L’Hôpital",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-3-1-7",
+      "sec-3-3-1"
+    ]
+  },
+  {
+    "id": "sec-3-3-1",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 3: Đạo hàm và vi phân",
+    "type": "Công thức",
+    "title": "Công thức khai triển (Taylor & Maclaurin)",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-3-2",
+      "sec-3-3-2"
+    ]
+  },
+  {
+    "id": "sec-3-3-2",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 3: Đạo hàm và vi phân",
+    "type": "Kiến thức chung",
+    "title": "Ứng dụng quan trọng của khai triển Taylor và Maclaurin",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-3-3-1",
+      "sec-3-4-1"
+    ]
+  },
+  {
+    "id": "sec-3-4-1",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 3: Đạo hàm và vi phân",
+    "type": "Dạng bài tập",
+    "title": "Dạng 1: Tính các giới hạn sau bằng quy tắc L’Hôpital, VCB tương đương hoặc khai triển",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-3-3-2",
+      "sec-3-4-2"
+    ]
+  },
+  {
+    "id": "sec-3-4-2",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 3: Đạo hàm và vi phân",
+    "type": "Dạng bài tập",
+    "title": "Dạng 2: Tính đạo hàm cấp cao bằng công thức Leibniz hoặc khai triển Taylor",
+    "content": "Đạo hàm mô tả sự biến thiên của hàm số tại một điểm: $f'(x_0) = \\lim_{\\Delta x \\to 0} \\frac{f(x_0 + \\Delta x) - f(x_0)}{\\Delta x}$. Nó được ứng dụng rất nhiều trong việc dò tìm cực trị và phương pháp tối ưu hóa (Gradient Descent) trong Machine Learning.",
+    "related_ids": [
+      "sec-3-4-1",
+      "sec-3-4-3"
+    ]
+  },
+  {
+    "id": "sec-3-4-3",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 3: Đạo hàm và vi phân",
+    "type": "Dạng bài tập",
+    "title": "Dạng 3: Xét sự tồn tại của đạo hàm tại một điểm",
+    "content": "Đạo hàm mô tả sự biến thiên của hàm số tại một điểm: $f'(x_0) = \\lim_{\\Delta x \\to 0} \\frac{f(x_0 + \\Delta x) - f(x_0)}{\\Delta x}$. Nó được ứng dụng rất nhiều trong việc dò tìm cực trị và phương pháp tối ưu hóa (Gradient Descent) trong Machine Learning.",
+    "related_ids": [
+      "sec-3-4-2",
+      "sec-3-4-4"
+    ]
+  },
+  {
+    "id": "sec-3-4-4",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 3: Đạo hàm và vi phân",
+    "type": "Dạng bài tập",
+    "title": "Dạng 4: Ứng dụng vi phân tính gần đúng",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-3-4-3",
+      "sec-3-4-5"
+    ]
+  },
+  {
+    "id": "sec-3-4-5",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 3: Đạo hàm và vi phân",
+    "type": "Dạng bài tập",
+    "title": "Dạng 5: Tính đạo hàm hàm ngược",
+    "content": "Đạo hàm mô tả sự biến thiên của hàm số tại một điểm: $f'(x_0) = \\lim_{\\Delta x \\to 0} \\frac{f(x_0 + \\Delta x) - f(x_0)}{\\Delta x}$. Nó được ứng dụng rất nhiều trong việc dò tìm cực trị và phương pháp tối ưu hóa (Gradient Descent) trong Machine Learning.",
+    "related_ids": [
+      "sec-3-4-4",
+      "sec-4-1-1"
+    ]
+  },
+  {
+    "id": "sec-4-1-1",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 4: Nguyên hàm và tích phân",
+    "type": "Khái niệm",
+    "title": "Định nghĩa và bảng nguyên hàm cơ bản",
+    "content": "Đây là nền tảng lý thuyết cơ bản (Khái niệm & Định nghĩa) của nội dung bài học. Nắm vững điều này sẽ giúp giải quyết các dạng bài tập phân loại. Vận dụng định ngiã một cách linh hoạt là cốt lõi của môn học Giải tích / Đại số.",
+    "related_ids": [
+      "sec-3-4-5",
+      "sec-4-1-2"
+    ]
+  },
+  {
+    "id": "sec-4-1-2",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 4: Nguyên hàm và tích phân",
+    "type": "Kiến thức chung",
+    "title": "Các phương pháp tính tích phân",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-4-1-1",
+      "sec-4-2-1"
+    ]
+  },
+  {
+    "id": "sec-4-2-1",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 4: Nguyên hàm và tích phân",
+    "type": "Khái niệm",
+    "title": "Định nghĩa và công thức Newton-Leibniz",
+    "content": "Đây là nền tảng lý thuyết cơ bản (Khái niệm & Định nghĩa) của nội dung bài học. Nắm vững điều này sẽ giúp giải quyết các dạng bài tập phân loại. Vận dụng định ngiã một cách linh hoạt là cốt lõi của môn học Giải tích / Đại số.",
+    "related_ids": [
+      "sec-4-1-2",
+      "sec-4-2-2"
+    ]
+  },
+  {
+    "id": "sec-4-2-2",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 4: Nguyên hàm và tích phân",
+    "type": "Tính chất",
+    "title": "Các tính chất cơ bản",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-4-2-1",
+      "sec-4-3-1"
+    ]
+  },
+  {
+    "id": "sec-4-3-1",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 4: Nguyên hàm và tích phân",
+    "type": "Khái niệm",
+    "title": "Định nghĩa và phân loại (Tích phân suy rộng)",
+    "content": "Đây là nền tảng lý thuyết cơ bản (Khái niệm & Định nghĩa) của nội dung bài học. Nắm vững điều này sẽ giúp giải quyết các dạng bài tập phân loại. Vận dụng định ngiã một cách linh hoạt là cốt lõi của môn học Giải tích / Đại số.",
+    "related_ids": [
+      "sec-4-2-2",
+      "sec-4-3-2"
+    ]
+  },
+  {
+    "id": "sec-4-3-2",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 4: Nguyên hàm và tích phân",
+    "type": "Kiến thức chung",
+    "title": "Các tiêu chuẩn xét sự hội tụ",
+    "content": "Sự hội tụ là một trong những khái niệm nền tảng. Khi xét giới hạn hay chuỗi số, sự hội tụ đảm bảo rằng quá trình lặp hay tổng vô hạn sẽ tiến dần về một giá trị hữu hạn xác định $L$. Công thức tổng quát thường liên quan đến $\\lim_{n \\to \\infty} S_n = L$ với $|S_n - L| < \\epsilon$.",
+    "related_ids": [
+      "sec-4-3-1",
+      "sec-4-3-3"
+    ]
+  },
+  {
+    "id": "sec-4-3-3",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 4: Nguyên hàm và tích phân",
+    "type": "Kiến thức chung",
+    "title": "Hội tụ tuyệt đối",
+    "content": "Sự hội tụ là một trong những khái niệm nền tảng. Khi xét giới hạn hay chuỗi số, sự hội tụ đảm bảo rằng quá trình lặp hay tổng vô hạn sẽ tiến dần về một giá trị hữu hạn xác định $L$. Công thức tổng quát thường liên quan đến $\\lim_{n \\to \\infty} S_n = L$ với $|S_n - L| < \\epsilon$.",
+    "related_ids": [
+      "sec-4-3-2",
+      "sec-4-4-1"
+    ]
+  },
+  {
+    "id": "sec-4-4-1",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 4: Nguyên hàm và tích phân",
+    "type": "Kiến thức chung",
+    "title": "Tính diện tích hình phẳng",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-4-3-3",
+      "sec-4-4-2"
+    ]
+  },
+  {
+    "id": "sec-4-4-2",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 4: Nguyên hàm và tích phân",
+    "type": "Kiến thức chung",
+    "title": "Tính thể tích vật thể tròn xoay",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-4-4-1",
+      "sec-4-4-3"
+    ]
+  },
+  {
+    "id": "sec-4-4-3",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 4: Nguyên hàm và tích phân",
+    "type": "Kiến thức chung",
+    "title": "Tính độ dài cung phẳng",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-4-4-2",
+      "sec-4-4-4"
+    ]
+  },
+  {
+    "id": "sec-4-4-4",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 4: Nguyên hàm và tích phân",
+    "type": "Kiến thức chung",
+    "title": "Tính diện tích mặt tròn xoay",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-4-4-3",
+      "sec-4-5-1"
+    ]
+  },
+  {
+    "id": "sec-4-5-1",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 4: Nguyên hàm và tích phân",
+    "type": "Dạng bài tập",
+    "title": "Dạng 1: Tính tích phân bất định và xác định",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-4-4-4",
+      "sec-4-5-2"
+    ]
+  },
+  {
+    "id": "sec-4-5-2",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 4: Nguyên hàm và tích phân",
+    "type": "Dạng bài tập",
+    "title": "Dạng 2: Tính tích phân suy rộng",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-4-5-1",
+      "sec-4-5-3"
+    ]
+  },
+  {
+    "id": "sec-4-5-3",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 4: Nguyên hàm và tích phân",
+    "type": "Dạng bài tập",
+    "title": "Dạng 3: Xét sự hội tụ/phân kỳ của tích phân",
+    "content": "Sự hội tụ là một trong những khái niệm nền tảng. Khi xét giới hạn hay chuỗi số, sự hội tụ đảm bảo rằng quá trình lặp hay tổng vô hạn sẽ tiến dần về một giá trị hữu hạn xác định $L$. Công thức tổng quát thường liên quan đến $\\lim_{n \\to \\infty} S_n = L$ với $|S_n - L| < \\epsilon$.",
+    "related_ids": [
+      "sec-4-5-2",
+      "sec-5-1-1"
+    ]
+  },
+  {
+    "id": "sec-5-1-1",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 5: Chuỗi số",
+    "type": "Khái niệm",
+    "title": "Định nghĩa và các chuỗi cơ bản",
+    "content": "Đây là nền tảng lý thuyết cơ bản (Khái niệm & Định nghĩa) của nội dung bài học. Nắm vững điều này sẽ giúp giải quyết các dạng bài tập phân loại. Vận dụng định ngiã một cách linh hoạt là cốt lõi của môn học Giải tích / Đại số.",
+    "related_ids": [
+      "sec-4-5-3",
+      "sec-5-1-2"
+    ]
+  },
+  {
+    "id": "sec-5-1-2",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 5: Chuỗi số",
+    "type": "Tính chất",
+    "title": "Các chuỗi số cơ bản và minh họa",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-5-1-1",
+      "sec-5-1-3"
+    ]
+  },
+  {
+    "id": "sec-5-1-3",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 5: Chuỗi số",
+    "type": "Kiến thức chung",
+    "title": "Các tiêu chuẩn xét sự hội tụ (cho chuỗi dương)",
+    "content": "Sự hội tụ là một trong những khái niệm nền tảng. Khi xét giới hạn hay chuỗi số, sự hội tụ đảm bảo rằng quá trình lặp hay tổng vô hạn sẽ tiến dần về một giá trị hữu hạn xác định $L$. Công thức tổng quát thường liên quan đến $\\lim_{n \\to \\infty} S_n = L$ với $|S_n - L| < \\epsilon$.",
+    "related_ids": [
+      "sec-5-1-2",
+      "sec-5-2-1"
+    ]
+  },
+  {
+    "id": "sec-5-2-1",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 5: Chuỗi số",
+    "type": "Kiến thức chung",
+    "title": "Chuỗi đan dấu",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-5-1-3",
+      "sec-5-2-2"
+    ]
+  },
+  {
+    "id": "sec-5-2-2",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 5: Chuỗi số",
+    "type": "Kiến thức chung",
+    "title": "Hội tụ tuyệt đối và bán hội tụ",
+    "content": "Sự hội tụ là một trong những khái niệm nền tảng. Khi xét giới hạn hay chuỗi số, sự hội tụ đảm bảo rằng quá trình lặp hay tổng vô hạn sẽ tiến dần về một giá trị hữu hạn xác định $L$. Công thức tổng quát thường liên quan đến $\\lim_{n \\to \\infty} S_n = L$ với $|S_n - L| < \\epsilon$.",
+    "related_ids": [
+      "sec-5-2-1",
+      "sec-5-2-3"
+    ]
+  },
+  {
+    "id": "sec-5-2-3",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 5: Chuỗi số",
+    "type": "Khái niệm",
+    "title": "Đại cương về chuỗi hàm",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-5-2-2",
+      "sec-5-3-1"
+    ]
+  },
+  {
+    "id": "sec-5-3-1",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 5: Chuỗi số",
+    "type": "Khái niệm",
+    "title": "Định nghĩa, bán kính và miền hội tụ",
+    "content": "Sự hội tụ là một trong những khái niệm nền tảng. Khi xét giới hạn hay chuỗi số, sự hội tụ đảm bảo rằng quá trình lặp hay tổng vô hạn sẽ tiến dần về một giá trị hữu hạn xác định $L$. Công thức tổng quát thường liên quan đến $\\lim_{n \\to \\infty} S_n = L$ với $|S_n - L| < \\epsilon$.",
+    "related_ids": [
+      "sec-5-2-3",
+      "sec-5-3-2"
+    ]
+  },
+  {
+    "id": "sec-5-3-2",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 5: Chuỗi số",
+    "type": "Kiến thức chung",
+    "title": "Khai triển Taylor và Maclaurin",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-5-3-1",
+      "sec-5-4-1"
+    ]
+  },
+  {
+    "id": "sec-5-4-1",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 5: Chuỗi số",
+    "type": "Dạng bài tập",
+    "title": "Dạng 1: Xét sự hội tụ/phân kỳ của chuỗi số",
+    "content": "Sự hội tụ là một trong những khái niệm nền tảng. Khi xét giới hạn hay chuỗi số, sự hội tụ đảm bảo rằng quá trình lặp hay tổng vô hạn sẽ tiến dần về một giá trị hữu hạn xác định $L$. Công thức tổng quát thường liên quan đến $\\lim_{n \\to \\infty} S_n = L$ với $|S_n - L| < \\epsilon$.",
+    "related_ids": [
+      "sec-5-3-2",
+      "sec-5-4-2"
+    ]
+  },
+  {
+    "id": "sec-5-4-2",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 5: Chuỗi số",
+    "type": "Dạng bài tập",
+    "title": "Dạng 2: Tìm miền hội tụ của chuỗi lũy thừa",
+    "content": "Sự hội tụ là một trong những khái niệm nền tảng. Khi xét giới hạn hay chuỗi số, sự hội tụ đảm bảo rằng quá trình lặp hay tổng vô hạn sẽ tiến dần về một giá trị hữu hạn xác định $L$. Công thức tổng quát thường liên quan đến $\\lim_{n \\to \\infty} S_n = L$ với $|S_n - L| < \\epsilon$.",
+    "related_ids": [
+      "sec-5-4-1",
+      "sec-5-4-3"
+    ]
+  },
+  {
+    "id": "sec-5-4-3",
+    "subject": "Giải tích 1",
+    "lesson": "Chương 5: Chuỗi số",
+    "type": "Dạng bài tập",
+    "title": "Dạng 3: Khai triển Taylor và tính tổng chuỗi",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-5-4-2",
+      "sec-6-1-1"
+    ]
+  },
+  {
+    "id": "sec-6-1-1",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 6: Ma trận",
+    "type": "Kiến thức chung",
+    "title": "Hai ma trận bằng nhau",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-5-4-3",
+      "sec-6-1-2"
+    ]
+  },
+  {
+    "id": "sec-6-1-2",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 6: Ma trận",
+    "type": "Kiến thức chung",
+    "title": "Phép cộng và trừ ma trận",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-6-1-1",
+      "sec-6-1-3"
+    ]
+  },
+  {
+    "id": "sec-6-1-3",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 6: Ma trận",
+    "type": "Kiến thức chung",
+    "title": "Nhân vô hướng",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-6-1-2",
+      "sec-6-1-4"
+    ]
+  },
+  {
+    "id": "sec-6-1-4",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 6: Ma trận",
+    "type": "Kiến thức chung",
+    "title": "Nhân hai ma trận",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-6-1-3",
+      "sec-6-1-5"
+    ]
+  },
+  {
+    "id": "sec-6-1-5",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 6: Ma trận",
+    "type": "Kiến thức chung",
+    "title": "Ma trận chuyển vị và các loại ma trận đặc biệt",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-6-1-4",
+      "sec-6-2-1"
+    ]
+  },
+  {
+    "id": "sec-6-2-1",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 6: Ma trận",
+    "type": "Kiến thức chung",
+    "title": "Các phép biến đổi sơ cấp trên dòng",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-6-1-5",
+      "sec-6-2-2"
+    ]
+  },
+  {
+    "id": "sec-6-2-2",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 6: Ma trận",
+    "type": "Kiến thức chung",
+    "title": "Ma trận nghịch đảo",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-6-2-1",
+      "sec-6-3-1"
+    ]
+  },
+  {
+    "id": "sec-6-3-1",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 6: Ma trận",
+    "type": "Dạng bài tập",
+    "title": "Dạng 1: Các phép toán cơ bản và phương trình ma trận",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-6-2-2",
+      "sec-6-3-2"
+    ]
+  },
+  {
+    "id": "sec-6-3-2",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 6: Ma trận",
+    "type": "Dạng bài tập",
+    "title": "Dạng 2: Lũy thừa ma trận và quy nạp toán học",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-6-3-1",
+      "sec-7-1-1"
+    ]
+  },
+  {
+    "id": "sec-7-1-1",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 7: Định thức",
+    "type": "Kiến thức chung",
+    "title": "Cách tính định thức cấp 1, 2 và 3",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-6-3-2",
+      "sec-7-1-2"
+    ]
+  },
+  {
+    "id": "sec-7-1-2",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 7: Định thức",
+    "type": "Kiến thức chung",
+    "title": "Khai triển Laplace (Tính định thức cấp n)",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-7-1-1",
+      "sec-7-2"
+    ]
+  },
+  {
+    "id": "sec-7-2",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 7: Định thức",
+    "type": "Tính chất",
+    "title": "Tính chất của định thức và phép biến đổi sơ cấp",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-7-1-2",
+      "sec-7-3"
+    ]
+  },
+  {
+    "id": "sec-7-3",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 7: Định thức",
+    "type": "Kiến thức chung",
+    "title": "Ma trận nghịch đảo và định thức",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-7-2",
+      "sec-7-4-1"
+    ]
+  },
+  {
+    "id": "sec-7-4-1",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 7: Định thức",
+    "type": "Dạng bài tập",
+    "title": "Dạng 1: Tính định thức bằng định nghĩa và khai triển",
+    "content": "Đây là nền tảng lý thuyết cơ bản (Khái niệm & Định nghĩa) của nội dung bài học. Nắm vững điều này sẽ giúp giải quyết các dạng bài tập phân loại. Vận dụng định ngiã một cách linh hoạt là cốt lõi của môn học Giải tích / Đại số.",
+    "related_ids": [
+      "sec-7-3",
+      "sec-7-4-2"
+    ]
+  },
+  {
+    "id": "sec-7-4-2",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 7: Định thức",
+    "type": "Dạng bài tập",
+    "title": "Dạng 2: Tính chất của định thức",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-7-4-1",
+      "sec-7-4-3"
+    ]
+  },
+  {
+    "id": "sec-7-4-3",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 7: Định thức",
+    "type": "Dạng bài tập",
+    "title": "Dạng 3: Biện luận điều kiện khả nghịch của ma trận",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-7-4-2",
+      "sec-7-4-4"
+    ]
+  },
+  {
+    "id": "sec-7-4-4",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 7: Định thức",
+    "type": "Dạng bài tập",
+    "title": "Dạng 4: Tìm ma trận nghịch đảo bằng định thức",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-7-4-3",
+      "sec-8-1"
+    ]
+  },
+  {
+    "id": "sec-8-1",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 8: Hệ phương trình tuyến tính",
+    "type": "Khái niệm",
+    "title": "Định nghĩa và định lý Kronecker-Capelli",
+    "content": "Đây là nền tảng lý thuyết cơ bản (Khái niệm & Định nghĩa) của nội dung bài học. Nắm vững điều này sẽ giúp giải quyết các dạng bài tập phân loại. Vận dụng định ngiã một cách linh hoạt là cốt lõi của môn học Giải tích / Đại số.",
+    "related_ids": [
+      "sec-7-4-4",
+      "sec-8-2"
+    ]
+  },
+  {
+    "id": "sec-8-2",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 8: Hệ phương trình tuyến tính",
+    "type": "Kiến thức chung",
+    "title": "Hệ Cramer",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-8-1",
+      "sec-8-3"
+    ]
+  },
+  {
+    "id": "sec-8-3",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 8: Hệ phương trình tuyến tính",
+    "type": "Kiến thức chung",
+    "title": "Hệ phương trình tuyến tính thuần nhất",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-8-2",
+      "sec-8-4-1"
+    ]
+  },
+  {
+    "id": "sec-8-4-1",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 8: Hệ phương trình tuyến tính",
+    "type": "Dạng bài tập",
+    "title": "Dạng 1: Giải hệ phương trình tuyến tính tổng quát",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-8-3",
+      "sec-8-4-2"
+    ]
+  },
+  {
+    "id": "sec-8-4-2",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 8: Hệ phương trình tuyến tính",
+    "type": "Dạng bài tập",
+    "title": "Dạng 2: Biện luận hệ phương trình theo tham số",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-8-4-1",
+      "sec-9-1"
+    ]
+  },
+  {
+    "id": "sec-9-1",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 9: Ma trận nghịch đảo",
+    "type": "Khái niệm",
+    "title": "Định nghĩa và tính chất",
+    "content": "Đây là nền tảng lý thuyết cơ bản (Khái niệm & Định nghĩa) của nội dung bài học. Nắm vững điều này sẽ giúp giải quyết các dạng bài tập phân loại. Vận dụng định ngiã một cách linh hoạt là cốt lõi của môn học Giải tích / Đại số.",
+    "related_ids": [
+      "sec-8-4-2",
+      "sec-9-2"
+    ]
+  },
+  {
+    "id": "sec-9-2",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 9: Ma trận nghịch đảo",
+    "type": "Kiến thức chung",
+    "title": "Tìm ma trận nghịch đảo bằng định thức",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-9-1",
+      "sec-9-3"
+    ]
+  },
+  {
+    "id": "sec-9-3",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 9: Ma trận nghịch đảo",
+    "type": "Kiến thức chung",
+    "title": "Tìm ma trận nghịch đảo bằng phương pháp Gauss-Jordan",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-9-2",
+      "sec-9-4"
+    ]
+  },
+  {
+    "id": "sec-9-4",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 9: Ma trận nghịch đảo",
+    "type": "Kiến thức chung",
+    "title": "Phương trình ma trận",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-9-3",
+      "sec-9-5-1"
+    ]
+  },
+  {
+    "id": "sec-9-5-1",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 9: Ma trận nghịch đảo",
+    "type": "Dạng bài tập",
+    "title": "Dạng 1: Tìm ma trận nghịch đảo",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-9-4",
+      "sec-9-5-2"
+    ]
+  },
+  {
+    "id": "sec-9-5-2",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 9: Ma trận nghịch đảo",
+    "type": "Dạng bài tập",
+    "title": "Dạng 2: Ma trận chứa tham số và biện luận khả nghịch",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-9-5-1",
+      "sec-10-1"
+    ]
+  },
+  {
+    "id": "sec-10-1",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 10: Không gian vector",
+    "type": "Khái niệm",
+    "title": "Định nghĩa và không gian vector con",
+    "content": "Đây là nền tảng lý thuyết cơ bản (Khái niệm & Định nghĩa) của nội dung bài học. Nắm vững điều này sẽ giúp giải quyết các dạng bài tập phân loại. Vận dụng định ngiã một cách linh hoạt là cốt lõi của môn học Giải tích / Đại số.",
+    "related_ids": [
+      "sec-9-5-2",
+      "sec-10-2"
+    ]
+  },
+  {
+    "id": "sec-10-2",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 10: Không gian vector",
+    "type": "Kiến thức chung",
+    "title": "Tổ hợp tuyến tính và sự độc lập tuyến tính",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-10-1",
+      "sec-10-3"
+    ]
+  },
+  {
+    "id": "sec-10-3",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 10: Không gian vector",
+    "type": "Kiến thức chung",
+    "title": "Hạng của hệ vector",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-10-2",
+      "sec-10-4"
+    ]
+  },
+  {
+    "id": "sec-10-4",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 10: Không gian vector",
+    "type": "Kiến thức chung",
+    "title": "Cơ sở, số chiều và tọa độ của vector",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-10-3",
+      "sec-10-5"
+    ]
+  },
+  {
+    "id": "sec-10-5",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 10: Không gian vector",
+    "type": "Kiến thức chung",
+    "title": "Ma trận chuyển cơ sở",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-10-4",
+      "sec-10-6-1"
+    ]
+  },
+  {
+    "id": "sec-10-6-1",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 10: Không gian vector",
+    "type": "Dạng bài tập",
+    "title": "Dạng 1: Kiểm tra không gian vector",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-10-5",
+      "sec-10-6-2"
+    ]
+  },
+  {
+    "id": "sec-10-6-2",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 10: Không gian vector",
+    "type": "Dạng bài tập",
+    "title": "Dạng 2: Kiểm tra không gian vector con",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-10-6-1",
+      "sec-10-6-3"
+    ]
+  },
+  {
+    "id": "sec-10-6-3",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 10: Không gian vector",
+    "type": "Dạng bài tập",
+    "title": "Dạng 3: Xét tổ hợp tuyến tính và sự độc lập tuyến tính",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-10-6-2",
+      "sec-10-6-4"
+    ]
+  },
+  {
+    "id": "sec-10-6-4",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 10: Không gian vector",
+    "type": "Dạng bài tập",
+    "title": "Dạng 4: Tìm hạng của hệ vector",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-10-6-3",
+      "sec-10-6-5"
+    ]
+  },
+  {
+    "id": "sec-10-6-5",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 10: Không gian vector",
+    "type": "Dạng bài tập",
+    "title": "Dạng 5: Tìm cơ sở, số chiều và tọa độ",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-10-6-4",
+      "sec-10-6-6"
+    ]
+  },
+  {
+    "id": "sec-10-6-6",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 10: Không gian vector",
+    "type": "Dạng bài tập",
+    "title": "Dạng 6: Tìm ma trận chuyển cơ sở",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-10-6-5",
+      "sec-11-1"
+    ]
+  },
+  {
+    "id": "sec-11-1",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 11: Không gian Euclide",
+    "type": "Kiến thức chung",
+    "title": "Tích vô hướng và không gian Euclide",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-10-6-6",
+      "sec-11-2"
+    ]
+  },
+  {
+    "id": "sec-11-2",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 11: Không gian Euclide",
+    "type": "Kiến thức chung",
+    "title": "Độ dài, khoảng cách và góc",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-11-1",
+      "sec-11-3"
+    ]
+  },
+  {
+    "id": "sec-11-3",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 11: Không gian Euclide",
+    "type": "Kiến thức chung",
+    "title": "Phần bù trực giao của không gian con",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-11-2",
+      "sec-11-4"
+    ]
+  },
+  {
+    "id": "sec-11-4",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 11: Không gian Euclide",
+    "type": "Kiến thức chung",
+    "title": "Sự trực giao và trực giao hóa Gram-Schmidt",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-11-3",
+      "sec-11-5"
+    ]
+  },
+  {
+    "id": "sec-11-5",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 11: Không gian Euclide",
+    "type": "Kiến thức chung",
+    "title": "Hình chiếu vuông góc",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-11-4",
+      "sec-11-6-1"
+    ]
+  },
+  {
+    "id": "sec-11-6-1",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 11: Không gian Euclide",
+    "type": "Dạng bài tập",
+    "title": "Dạng 1: Kiểm tra tính chất tích vô hướng",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-11-5",
+      "sec-11-6-2"
+    ]
+  },
+  {
+    "id": "sec-11-6-2",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 11: Không gian Euclide",
+    "type": "Dạng bài tập",
+    "title": "Dạng 2: Tính độ dài, khoảng cách và góc",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-11-6-1",
+      "sec-11-6-3"
+    ]
+  },
+  {
+    "id": "sec-11-6-3",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 11: Không gian Euclide",
+    "type": "Dạng bài tập",
+    "title": "Dạng 3: Tìm phần bù trực giao của không gian con",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-11-6-2",
+      "sec-11-6-4"
+    ]
+  },
+  {
+    "id": "sec-11-6-4",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 11: Không gian Euclide",
+    "type": "Dạng bài tập",
+    "title": "Dạng 4: Trực giao hóa Gram-Schmidt",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-11-6-3",
+      "sec-11-6-5"
+    ]
+  },
+  {
+    "id": "sec-11-6-5",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 11: Không gian Euclide",
+    "type": "Dạng bài tập",
+    "title": "Dạng 5: Tìm hình chiếu trực giao và khoảng cách",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-11-6-4",
+      "sec-12-1"
+    ]
+  },
+  {
+    "id": "sec-12-1",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 12: Ánh xạ tuyến tính",
+    "type": "Khái niệm",
+    "title": "Định nghĩa và tính chất cơ bản",
+    "content": "Đây là nền tảng lý thuyết cơ bản (Khái niệm & Định nghĩa) của nội dung bài học. Nắm vững điều này sẽ giúp giải quyết các dạng bài tập phân loại. Vận dụng định ngiã một cách linh hoạt là cốt lõi của môn học Giải tích / Đại số.",
+    "related_ids": [
+      "sec-11-6-5",
+      "sec-12-2"
+    ]
+  },
+  {
+    "id": "sec-12-2",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 12: Ánh xạ tuyến tính",
+    "type": "Kiến thức chung",
+    "title": "Nhân và ảnh của ánh xạ tuyến tính",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-12-1",
+      "sec-12-3"
+    ]
+  },
+  {
+    "id": "sec-12-3",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 12: Ánh xạ tuyến tính",
+    "type": "Kiến thức chung",
+    "title": "Ma trận của ánh xạ tuyến tính",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-12-2",
+      "sec-12-4-1"
+    ]
+  },
+  {
+    "id": "sec-12-4-1",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 12: Ánh xạ tuyến tính",
+    "type": "Dạng bài tập",
+    "title": "Dạng 1: Chứng minh ánh xạ tuyến tính",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-12-3",
+      "sec-12-4-2"
+    ]
+  },
+  {
+    "id": "sec-12-4-2",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 12: Ánh xạ tuyến tính",
+    "type": "Dạng bài tập",
+    "title": "Dạng 2: Tìm cơ sở và số chiều của nhân và ảnh",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-12-4-1",
+      "sec-12-4-3"
+    ]
+  },
+  {
+    "id": "sec-12-4-3",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 12: Ánh xạ tuyến tính",
+    "type": "Dạng bài tập",
+    "title": "Dạng 3: Tìm ma trận của ánh xạ tuyến tính",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-12-4-2",
+      "sec-13-1"
+    ]
+  },
+  {
+    "id": "sec-13-1",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 13: Trị riêng và vector riêng",
+    "type": "Khái niệm",
+    "title": "Định nghĩa và phương pháp tìm",
+    "content": "Đây là nền tảng lý thuyết cơ bản (Khái niệm & Định nghĩa) của nội dung bài học. Nắm vững điều này sẽ giúp giải quyết các dạng bài tập phân loại. Vận dụng định ngiã một cách linh hoạt là cốt lõi của môn học Giải tích / Đại số.",
+    "related_ids": [
+      "sec-12-4-3",
+      "sec-13-2"
+    ]
+  },
+  {
+    "id": "sec-13-2",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 13: Trị riêng và vector riêng",
+    "type": "Kiến thức chung",
+    "title": "Trị riêng và vector riêng của ánh xạ tuyến tính",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-13-1",
+      "sec-13-3"
+    ]
+  },
+  {
+    "id": "sec-13-3",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 13: Trị riêng và vector riêng",
+    "type": "Kiến thức chung",
+    "title": "Chéo hóa ma trận",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-13-2",
+      "sec-13-4"
+    ]
+  },
+  {
+    "id": "sec-13-4",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 13: Trị riêng và vector riêng",
+    "type": "Kiến thức chung",
+    "title": "Chéo hóa ma trận đối xứng thực bằng ma trận trực giao",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-13-3",
+      "sec-13-5"
+    ]
+  },
+  {
+    "id": "sec-13-5",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 13: Trị riêng và vector riêng",
+    "type": "Kiến thức chung",
+    "title": "Chéo hóa ánh xạ tuyến tính",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-13-4",
+      "sec-13-6-1"
+    ]
+  },
+  {
+    "id": "sec-13-6-1",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 13: Trị riêng và vector riêng",
+    "type": "Dạng bài tập",
+    "title": "Dạng 1: Tìm trị riêng và vector riêng",
+    "content": "Phương pháp giải chung: \n1. Đọc kỹ đề bài và đối chiếu lý thuyết.\n2. Biến đổi công thức (rút gọn, thế tham số, khử các dạng vô định hoặc đưa về ma trận bậc thang).\n3. Tổ hợp kết quả và kết luận bài toán.\nVD: Nếu tính giới hạn hãy dùng L'Hopital $\\frac{0}{0}$.",
+    "related_ids": [
+      "sec-13-5",
+      "sec-13-6-2"
+    ]
+  },
+  {
+    "id": "sec-13-6-2",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 13: Trị riêng và vector riêng",
+    "type": "Dạng bài tập",
+    "title": "Dạng 2: Chéo hóa ma trận",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-13-6-1",
+      "sec-14-1"
+    ]
+  },
+  {
+    "id": "sec-14-1",
+    "subject": "Ứng dụng trong CNTT",
+    "lesson": "Chương 14: Ứng dụng của toán học trong CNTT",
+    "type": "Kiến thức chung",
+    "title": "Ma trận trong xử lý ảnh (Thị giác máy tính)",
+    "content": "Ma trận $A = (a_{ij})_{m \\times n}$ là công cụ quan trọng để biểu diễn hệ phương trình, đồ thị lượng giác và các phép toán biến đổi hình học (Scale, Rotation, Translation). Khả nghịch khi $\\det(A) \\neq 0$.",
+    "related_ids": [
+      "sec-13-6-2",
+      "sec-14-2"
+    ]
+  },
+  {
+    "id": "sec-14-2",
+    "subject": "Ứng dụng trong CNTT",
+    "lesson": "Chương 14: Ứng dụng của toán học trong CNTT",
+    "type": "Kiến thức chung",
+    "title": "Lý thuyết đồ thị và hệ thống gợi ý",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-14-1",
+      "sec-14-3"
+    ]
+  },
+  {
+    "id": "sec-14-3",
+    "subject": "Ứng dụng trong CNTT",
+    "lesson": "Chương 14: Ứng dụng của toán học trong CNTT",
+    "type": "Dạng bài tập",
+    "title": "Giải tích trong đồ họa 3D và mô hình hóa",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-14-2",
+      "sec-14-4"
+    ]
+  },
+  {
+    "id": "sec-14-4",
+    "subject": "Ứng dụng trong CNTT",
+    "lesson": "Chương 14: Ứng dụng của toán học trong CNTT",
+    "type": "Dạng bài tập",
+    "title": "Phương pháp số và giải thuật tính toán",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-14-3",
+      "sec-15-1"
+    ]
+  },
+  {
+    "id": "sec-15-1",
+    "subject": "Đề thi & Ôn tập",
+    "lesson": "Chương 15: Đề thi tham khảo",
+    "type": "Đề thi",
+    "title": "Đề số 1: Học kỳ I (2022-2023)",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-14-4",
+      "sec-15-2"
+    ]
+  },
+  {
+    "id": "sec-15-2",
+    "subject": "Đề thi & Ôn tập",
+    "lesson": "Chương 15: Đề thi tham khảo",
+    "type": "Đề thi",
+    "title": "Đề số 2: Học kỳ I (2023-2024)",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-15-1",
+      "sec-15-3"
+    ]
+  },
+  {
+    "id": "sec-15-3",
+    "subject": "Đề thi & Ôn tập",
+    "lesson": "Chương 15: Đề thi tham khảo",
+    "type": "Đề thi",
+    "title": "Đề số 3: Học kỳ I (2024-2025)",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-15-2",
+      "sec-15-4"
+    ]
+  },
+  {
+    "id": "sec-15-4",
+    "subject": "Đề thi & Ôn tập",
+    "lesson": "Chương 15: Đề thi tham khảo",
+    "type": "Đề thi",
+    "title": "Đề số 4: Học kỳ I (2025-2026)",
+    "content": "Nội dung chi tiết của phần kiến thức này nằm trong giáo trình môn Cơ sở Toán trong CNTT. Để nắm vững tư duy ứng dụng, sinh viên cần làm bài tập và nhớ các công thức đạo hàm, tích phân, cũng như xử lý biến đổi dòng ma trận sơ cấp.",
+    "related_ids": [
+      "sec-15-3"
+    ]
+  },
+  {
+    "id": "pdf-hpttt",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 8: Hệ phương trình tuyến tính",
+    "type": "Tài liệu PDF",
+    "title": "Bài tập Hệ phương trình tuyến tính",
+    "content": "File PDF đính kèm chứa các dạng bài tập thực hành về giải và biện luận hệ phương trình tuyến tính (Cramer, Kronecker-Capelli).",
+    "pdf": "pdfs/BT_HPTTT.pdf",
+    "related_ids": []
+  },
+  {
+    "id": "pdf-hang",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 10: Không gian vector",
+    "type": "Tài liệu PDF",
+    "title": "Bài tập Hạng của ma trận",
+    "content": "Tài liệu PDF các bài tập chuyên đề về tìm hạng của ma trận và hạng của hệ vector.",
+    "pdf": "pdfs/BT_Hạng.pdf",
+    "related_ids": []
+  },
+  {
+    "id": "pdf-matran",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 6: Ma trận",
+    "type": "Tài liệu PDF",
+    "title": "Bài tập Ma trận",
+    "content": "Tổng hợp bài tập các phép toán trên ma trận, ma trận chuyển vị và lũy thừa ma trận.",
+    "pdf": "pdfs/BT_Ma trận.pdf",
+    "related_ids": []
+  },
+  {
+    "id": "pdf-nghichdao",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 9: Ma trận nghịch đảo",
+    "type": "Tài liệu PDF",
+    "title": "Bài tập Ma trận nghịch đảo",
+    "content": "Các dạng bài tập tìm ma trận nghịch đảo bằng phương pháp Gauss-Jordan và phương pháp phần bù đại số (định thức).",
+    "pdf": "pdfs/BT_Nghịch đảo.pdf",
+    "related_ids": []
+  },
+  {
+    "id": "pdf-dinhthuc",
+    "subject": "Đại số tuyến tính",
+    "lesson": "Chương 7: Định thức",
+    "type": "Tài liệu PDF",
+    "title": "Bài tập Định thức",
+    "content": "Hệ thống bài tập biến đổi sơ cấp để tính định thức và sử dụng khai triển Laplace cho ma trận cấp cao.",
+    "pdf": "pdfs/BT_Định thức.pdf",
+    "related_ids": []
+  }
+]
