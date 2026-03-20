@@ -30,7 +30,22 @@ document.addEventListener('DOMContentLoaded', () => {
             await fetchKnowledge();
         } catch (error) {
             console.error('Error init:', error);
-            knowledgeGrid.innerHTML = '<div class="loading-spinner">Lỗi kết nối Server! Vui lòng kiểm tra Node.js.</div>';
+            const isFileSystem = window.location.protocol === 'file:';
+            let errorMsg = 'Lỗi kết nối Server! Vui lòng kiểm tra Node.js.';
+            
+            if (isFileSystem) {
+                errorMsg = `
+                    <div style="text-align: left; padding: 20px; background: rgba(239, 68, 68, 0.1); border-radius: 8px; border: 1px solid #ef4444;">
+                        <h3 style="color: #ef4444; margin-top: 0;">⚠️ Không thể chạy từ File cục bộ</h3>
+                        <p>Bạn đang mở file trực tiếp từ thư mục. Để ứng dụng hoạt động, bạn cần:</p>
+                        <ol>
+                            <li>Chạy lệnh: <code>npm start</code> trong terminal.</li>
+                            <li>Truy cập địa chỉ: <a href="http://localhost:3000" style="color: #3b82f6; font-weight: bold;">http://localhost:3000</a></li>
+                        </ol>
+                    </div>
+                `;
+            }
+            knowledgeGrid.innerHTML = `<div class="error-container">${errorMsg}</div>`;
         }
     };
 

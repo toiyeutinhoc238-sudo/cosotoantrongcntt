@@ -15,8 +15,10 @@ let database = [];
 try {
     const rawdata = fs.readFileSync(path.join(__dirname, 'data.json'));
     database = JSON.parse(rawdata);
+    console.log(`✅ Đã tải dữ liệu từ data.json: ${database.length} mục kiến thức.`);
 } catch (error) {
-    console.error("Lỗi đọc dữ liệu json:", error);
+    console.error("❌ Lỗi nghiêm trọng khi đọc dữ liệu json:", error);
+    process.exit(1); // Thoát nếu không có dữ liệu
 }
 
 // API: Lấy danh sách + Tìm kiếm + Lọc
